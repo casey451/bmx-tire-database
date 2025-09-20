@@ -286,5 +286,53 @@
   {
     "label": "Tioga Fastr-X 24x1.6",
     "circIn": 73.13
+  },
+  {
+    "label": "Maxxis Torch 20x1.95",
+    "circIn": 62.8
+  },
+  {
+    "label": "Maxxis Torch 20x1.75",
+    "circIn": 61.23
+  },
+  {
+    "label": "Maxxis Torch 20x1.5",
+    "circIn": 60.6
+  },
+  {
+    "label": "Maxxis Torch 20x1-3/8",
+    "circIn": 64.53
+  },
+  {
+    "label": "Maxxis Torch 20x1-1/8",
+    "circIn": 63.74
+  },
+  {
+    "label": "Maxxis Torch 24x1.75",
+    "circIn": 73.92
+  },
+  {
+    "label": "Maxxis DTH 24x1.75",
+    "circIn": 73.38
+  },
+  {
+    "label": "Maxxis DTH 20x1.95",
+    "circIn": 62.8
+  },
+  {
+    "label": "Maxxis DTH 20x1.75",
+    "circIn": 61.17
+  },
+  {
+    "label": "Maxxis DTH 20x1.5",
+    "circIn": 60.41
+  },
+  {
+    "label": "Maxxis DTH 20x1-3/8",
+    "circIn": 64.28
+  },
+  {
+    "label": "Maxxis DTH 20x1-1/8",
+    "circIn": 63.02
   }
 ]
